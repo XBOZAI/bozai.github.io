@@ -1,28 +1,19 @@
 title: BOZAI # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  <a href="mailto:site@wu-kan.cn">
+  <a href="mailto:3160304133@qq.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/XBOZAI">
     <i class="fa-brands fa-github"></i>
   </a>
-  <a href="https://scholar.google.com/citations?user=aU9P37UAAAAJ">
-    <i class="fa-brands fa-google-scholar"></i>
-  </a>
-  <a href="https://orcid.org/0009-0008-5828-847X">
-    <i class="fa-brands fa-orcid"></i>
-  </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fa-solid fa-smile"></i>
-  </a>
-  <a href="https://space.bilibili.com/166390020">
+  <a href="https://space.bilibili.com/501877939">
     <i class="fa-brands fa-bilibili"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wukan0621">
+  <a href="https://www.zhihu.com/people/kbozai">
     <i class="fa-brands fa-zhihu"></i>
   </a>
   <br/>
- 
+   上面是BOZAI的联系方式
   <br/>
  
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
